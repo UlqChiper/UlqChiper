@@ -65,9 +65,7 @@
 
 ### 📁 More Projects (Uploading Soon)
 
-- 🌐 A few earlier **HTML/CSS websites**
-- 🔌 **Arduino/Tinkercad** electronics projects
-- 🗄️ **RDBMS/MySQL** coursework projects
+
 
 <hr style="border: none; height: 1px; background-color: #d0d7de;">
 
